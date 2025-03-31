@@ -1,6 +1,8 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=Jin%20Github!&animation=fadeIn&fontSize=90" />	
 </div>
+
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -28,9 +30,20 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" />
 </div>
-<br>	
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinleee&layout=compact">
+<br>
 
+---
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinleee&layout=compact&theme=dark" width="250px" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjinleee&show_icons=true&theme=dark" width="350px" height="200px"/>
+</div>
+
+---
+
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jjinleee&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
