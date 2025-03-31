@@ -36,8 +36,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinleee&layout=compact&theme=dark" width="250px" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jjinleee&show_icons=true&theme=dark" width="350px" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinleee&layout=compact&theme=dark&hide_border=true" width="250px" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjinleee&show_icons=true&theme=dark&hide_border=true" width="350px" height="200px"/>
 </div>
 
 ---
